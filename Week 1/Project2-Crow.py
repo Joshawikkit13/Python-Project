@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+address = input ("Enter your address: ")
+phone = input ("Enter your phone number: ")
+print("Your name is:", name, "Your address is:", address, "Your phone number is:", phone)
+input("Press any key, then enter to exit.")
